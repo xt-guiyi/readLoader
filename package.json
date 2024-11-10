@@ -1,0 +1,25 @@
+{
+  "name": "readloader",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "libgif": "^0.0.3",
+    "swiper": "^11.1.1",
+    "vant": "^4.9.0",
+    "vue": "^3.4.21",
+    "vue-awesome-swiper": "^5.0.1",
+    "xgplayer": "^3.0.17"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "less": "^4.2.0",
+    "postcss-px-to-viewport": "^1.1.1",
+    "vite": "^5.2.0"
+  }
+}

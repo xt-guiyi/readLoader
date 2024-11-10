@@ -1,0 +1,38 @@
+/* @font-face {
+    font-family: 'Source Han Sans';
+    font-weight: normal;
+    src: url('./SourceHanSerifCN-Regular.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Source Han Serif CN';
+    font-weight: normal;
+    src: url('./SourceHanSerifCN-Regular.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Source Han Sans';
+    font-weight: bold;
+    src: url('./SourceHanSerifCN-Bold.otf') format('opentype');
+} */
+
+@font-face {
+    font-family: 'YouSheBiaoTiHei';
+    src: url('./ysbth.ttf.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'zihunbiantaoti';
+    src: url('./zhbtt.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Alimama DongFangDaKai';
+    src: url('./Alimama DongFangDaKai.woff2') format('truetype');
+}
+
+/* @font-face {
+    font-family: '思源黑体';
+    font-weight: bold;
+    src: url('./思源黑体-Regular.otf') format('opentype');
+} */
